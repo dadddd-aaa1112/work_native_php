@@ -1,0 +1,1270 @@
+Logger, 6213719720:         	Automatically truncated logfile to 1048576
+CheckLoop:      	We did not receive a response for 2 seconds: reconnecting and exiting check loop on DC 5.0
+Connection:     	Reconnecting DC 5.0
+Connection:     	Disconnecting from DC 5.0
+Connection:     	Disconnected from DC 5.0
+DataCenter:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://91.108.56.191:443 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 5.0
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, 6213719720:        	Can't garbage collect ping_delay_disconnect with message ID 7202255410558926848 in DC 3 sent 4 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+Session, 6213719720:        	Can't garbage collect ping_delay_disconnect with message ID 7202255410558926848 in DC 5 sent 4 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 5, 1 left
+Session, 6213719720:        	Can't garbage collect ping_delay_disconnect with message ID 7202255410558926848 in DC 1 sent 4 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session:        	Garbage collected 0 outgoing messages in DC 2, 1 left
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+DataCenter, 6213719720:     	Connection failed (2): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.41:80 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+CheckLoop, 6213719720:      	We did not receive a response for 2 seconds: reconnecting and exiting check loop on DC 4.0
+Connection, 6213719720:     	Reconnecting DC 4.0
+Connection, 6213719720:     	Disconnecting from DC 4.0
+Connection, 6213719720:     	Disconnected from DC 4.0
+DataCenter, 6213719720:     	Reconnecting to DC 4 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.91:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 4.0
+Session:        	Garbage collected 0 outgoing messages in DC 2, 1 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Can't garbage collect ping_delay_disconnect with message ID 7202255423443828736 in DC 1 sent 3 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+CheckLoop, 6213719720:      	We did not receive a response for 2 seconds: reconnecting and exiting check loop on DC 3.0
+CheckLoop, 6213719720:      	We did not receive a response for 2 seconds: reconnecting and exiting check loop on DC 1.0
+CheckLoop, 6213719720:      	We did not receive a response for 2 seconds: reconnecting and exiting check loop on DC 5.0
+Connection, 6213719720:     	Reconnecting DC 3.0
+Connection, 6213719720:     	Disconnecting from DC 3.0
+Connection, 6213719720:     	Disconnected from DC 3.0
+DataCenter, 6213719720:     	Reconnecting to DC 3 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.175.100:443 main DC 3, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 3.0
+Connection, 6213719720:     	Reconnecting DC 1.0
+Connection, 6213719720:     	Disconnecting from DC 1.0
+Connection, 6213719720:     	Disconnected from DC 1.0
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.175.53:443 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+Connection, 6213719720:     	Reconnecting DC 5.0
+Connection, 6213719720:     	Disconnecting from DC 5.0
+Connection, 6213719720:     	Disconnected from DC 5.0
+DataCenter, 6213719720:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://91.108.56.191:443 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 5.0
+DataCenter:     	Connection failed (5): Operation timed out
+DataCenter:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://91.108.56.191:80 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 5.0
+Session:        	Can't garbage collect updates.getDifference with message ID 7202255423443828736 in DC 2 sent 3 seconds ago, no response has been received or it wasn't yet handled!
+Session:        	Garbage collected 0 outgoing messages in DC 2, 1 left
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Can't garbage collect ping_delay_disconnect with message ID 7202255423443828736 in DC 1 sent 4 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+CheckLoop:      	Still missing updates.getDifference,  on DC 2.0, sending state request
+Session:        	Can't garbage collect updates.getDifference with message ID 7202255423443828736 in DC 2 sent 4 seconds ago, no response has been received or it wasn't yet handled!
+Session:        	Garbage collected 0 outgoing messages in DC 2, 2 left
+DataCenter, 6213719720:     	Connection failed (2): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.41:88 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 2, 2 left
+DataCenter, 6213719720:     	Connection failed (4): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 4 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.91:80 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 4.0
+Session:        	Can't garbage collect updates.getDifference with message ID 7202255423443828736 in DC 2 sent 5 seconds ago, no response has been received or it wasn't yet handled!
+Session:        	Garbage collected 0 outgoing messages in DC 2, 2 left
+DataCenter:     	Connection failed (5): Operation timed out
+DataCenter:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://91.108.56.191:88 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 5.0
+DataCenter, 6213719720:     	Connection failed (3): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 3 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.175.100:80 main DC 3, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 3.0
+Session, 6213719720:        	Can't garbage collect updates.getChannelDifference with message ID 7202255436328730624 in DC 2 sent 3 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Can't garbage collect updates.getDifference with message ID 7202255436328730628 in DC 2 sent 3 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 2, 2 left
+CheckLoop:      	We did not receive a response for 2 seconds: reconnecting and exiting check loop on DC 2.0
+Connection:     	Reconnecting DC 2.0
+Connection:     	Disconnecting from DC 2.0
+Connection:     	Disconnected from DC 2.0
+DataCenter:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 2.0
+CheckLoop, 6213719720:      	We did not receive a response for 2 seconds: reconnecting and exiting check loop on DC 1.0
+Connection, 6213719720:     	Reconnecting DC 1.0
+Connection, 6213719720:     	Disconnecting from DC 1.0
+Connection, 6213719720:     	Disconnected from DC 1.0
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.175.53:443 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.175.53:80 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+CheckLoop, 6213719720:      	Still missing updates.getChannelDifference, updates.getDifference,  on DC 2.0, sending state request
+DataCenter, 6213719720:     	Connection failed (5): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://91.108.56.191:80 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 5.0
+Session, 6213719720:        	Can't garbage collect updates.getChannelDifference with message ID 7202255436328730624 in DC 2 sent 4 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Can't garbage collect updates.getDifference with message ID 7202255436328730628 in DC 2 sent 4 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 2, 3 left
+DataCenter, 6213719720:     	Connection failed (2): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.41:5222 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+DataCenter, 6213719720:     	Connection failed (4): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 4 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.91:88 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 4.0
+Session, 6213719720:        	Can't garbage collect updates.getChannelDifference with message ID 7202255436328730624 in DC 2 sent 5 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Can't garbage collect updates.getDifference with message ID 7202255436328730628 in DC 2 sent 5 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 2, 3 left
+DataCenter:     	Connection failed (5): Operation timed out
+DataCenter:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://91.108.56.191:5222 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 5.0
+DataCenter, 6213719720:     	Connection failed (3): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 3 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.175.100:88 main DC 3, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 3.0
+DataCenter:     	Connection failed (2): Operation timed out
+DataCenter:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.41:80 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 2.0
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.175.53:80 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+CheckLoop, 6213719720:      	We did not receive a response for 2 seconds: reconnecting and exiting check loop on DC 2.0
+Connection, 6213719720:     	Reconnecting DC 2.0
+Connection, 6213719720:     	Disconnecting from DC 2.0
+Connection, 6213719720:     	Disconnected from DC 2.0
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.175.53:88 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+DataCenter, 6213719720:     	Connection failed (5): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://91.108.56.191:88 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 5.0
+DataCenter, 6213719720:     	Connection failed (2): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:067c:04e8:f002:0000:0000:0000:000a]:443 main DC 2, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+DataCenter, 6213719720:     	Connection failed (4): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 4 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.91:5222 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 4.0
+DataCenter:     	Connection failed (5): Operation timed out
+DataCenter:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://[2001:0b28:f23f:f005:0000:0000:0000:000a]:443 main DC 5, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 5.0
+DataCenter, 6213719720:     	Connection failed (3): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 3 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.175.100:5222 main DC 3, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 3.0
+DataCenter:     	Connection failed (2): Operation timed out
+DataCenter:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.41:88 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 2.0
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.175.53:88 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.175.53:5222 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+DataCenter, 6213719720:     	Connection failed (2): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.41:80 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+DataCenter, 6213719720:     	Connection failed (5): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://91.108.56.191:5222 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 5.0
+DataCenter, 6213719720:     	Connection failed (2): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:067c:04e8:f002:0000:0000:0000:000a]:80 main DC 2, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+DataCenter, 6213719720:     	Connection failed (4): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 4 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:067c:04e8:f004:0000:0000:0000:000a]:443 main DC 4, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 4.0
+DataCenter:     	Connection failed (5): Operation timed out
+DataCenter:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://[2001:0b28:f23f:f005:0000:0000:0000:000a]:80 main DC 5, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 5.0
+DataCenter, 6213719720:     	Connection failed (3): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 3 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:0b28:f23d:f003:0000:0000:0000:000a]:443 main DC 3, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 3.0
+DataCenter:     	Connection failed (2): Operation timed out
+DataCenter:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.41:5222 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 2.0
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.175.53:5222 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:0b28:f23d:f001:0000:0000:0000:000a]:443 main DC 1, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+DataCenter, 6213719720:     	Connection failed (2): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.41:88 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+DataCenter, 6213719720:     	Connection failed (5): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:0b28:f23f:f005:0000:0000:0000:000a]:443 main DC 5, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 5.0
+PingLoop, 6213719720:       	Ping DC 3.0
+DataCenter, 6213719720:     	Connection failed (2): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:067c:04e8:f002:0000:0000:0000:000a]:88 main DC 2, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+DataCenter, 6213719720:     	Connection failed (4): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 4 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:067c:04e8:f004:0000:0000:0000:000a]:80 main DC 4, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 4.0
+DataCenter:     	Connection failed (5): Operation timed out
+DataCenter:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://[2001:0b28:f23f:f005:0000:0000:0000:000a]:88 main DC 5, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 5.0
+DataCenter, 6213719720:     	Connection failed (3): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 3 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:0b28:f23d:f003:0000:0000:0000:000a]:80 main DC 3, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 3.0
+DataCenter:     	Connection failed (2): Operation timed out
+DataCenter:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://[2001:067c:04e8:f002:0000:0000:0000:000a]:443 main DC 2, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 2.0
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:0b28:f23d:f001:0000:0000:0000:000a]:443 main DC 1, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:0b28:f23d:f001:0000:0000:0000:000a]:80 main DC 1, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+DataCenter, 6213719720:     	Connection failed (2): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.41:5222 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+DataCenter, 6213719720:     	Connection failed (5): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:0b28:f23f:f005:0000:0000:0000:000a]:80 main DC 5, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 5.0
+Connection:     	Connected to DC 2.0!
+CheckLoop:      	Still missing updates.getDifference,  on DC 2.0, sending state request
+PingLoop:       	Ping DC 2.0
+DataCenter:     	OK!
+CheckLoop:      	We did not receive a response for 2 seconds: reconnecting and exiting check loop on DC 2.0
+Connection:     	Reconnecting DC 2.0
+Connection:     	Disconnecting from DC 2.0
+Connection:     	Disconnected from DC 2.0
+DataCenter:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 2.0
+DataCenter, 6213719720:     	Connection failed (2): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:067c:04e8:f002:0000:0000:0000:000a]:5222 main DC 2, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+Connection, 6213719720:     	Connected to DC 4.0!
+DataCenter, 6213719720:     	OK!
+Connection, 6213719720:     	Connected to DC 3.0!
+DataCenter, 6213719720:     	OK!
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+DataCenter:     	Connection failed (5): Operation timed out
+DataCenter:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://[2001:0b28:f23f:f005:0000:0000:0000:000a]:5222 main DC 5, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 5.0
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:0b28:f23d:f001:0000:0000:0000:000a]:80 main DC 1, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:0b28:f23d:f001:0000:0000:0000:000a]:88 main DC 1, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+DataCenter, 6213719720:     	Connection failed (2): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:067c:04e8:f002:0000:0000:0000:000a]:443 main DC 2, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+PingLoop, 6213719720:       	Ping DC 5.0
+DataCenter, 6213719720:     	Connection failed (5): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:0b28:f23f:f005:0000:0000:0000:000a]:88 main DC 5, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 5.0
+DataCenter:     	Connection failed (2): Operation timed out
+DataCenter:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.41:80 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 2.0
+DataCenter, 6213719720:     	Connection failed (2): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 5, 1 left
+DataCenter:     	Connection failed (5): Operation timed out
+DataCenter:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://91.108.56.191:443 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 5.0
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:0b28:f23d:f001:0000:0000:0000:000a]:88 main DC 1, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:0b28:f23d:f001:0000:0000:0000:000a]:5222 main DC 1, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+DataCenter, 6213719720:     	Connection failed (2): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:067c:04e8:f002:0000:0000:0000:000a]:80 main DC 2, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+DataCenter:     	Connection failed (2): Operation timed out
+ timed out
+DataCenter, 6213719720:     	Reconnecting to DC 5 (0) from existing
+DataCenter:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:0b28:f23f:f005:0000:0000:0000:000a]:5222 main DC 5, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 5.0
+ tcp://149.154.167.41:88 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 2.0
+DataCenter, 6213719720:     	Connection failed (2): Connecting to tcp://149.154.167.41:443 failed: timeout exceeded (2000 ms)
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.41:80 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+DataCenter:     	Connection failed (5): Connecting to tcp://91.108.56.191:443 failed: timeout exceeded (2000 ms)
+DataCenter:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://91.108.56.191:80 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 5.0
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://[2001:0b28:f23d:f001:0000:0000:0000:000a]:5222 main DC 1, via ipv6 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+Connection, 6213719720:     	Connected to DC 2.0!
+CheckLoop, 6213719720:      	Still missing updates.getChannelDifference, updates.getDifference,  on DC 2.0, sending state request
+PingLoop, 6213719720:       	Ping DC 2.0
+DataCenter, 6213719720:     	OK!
+CheckLoop, 6213719720:      	We did not receive a response for 2 seconds: reconnecting and exiting check loop on DC 5.0
+CheckLoop, 6213719720:      	We did not receive a response for 2 seconds: reconnecting and exiting check loop on DC 2.0
+Connection, 6213719720:     	Reconnecting DC 5.0
+Connection, 6213719720:     	Disconnecting from DC 5.0
+Connection, 6213719720:     	Disconnected from DC 5.0
+DataCenter, 6213719720:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://91.108.56.191:443 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 5.0
+Connection, 6213719720:     	Reconnecting DC 2.0
+Connection, 6213719720:     	Disconnecting from DC 2.0
+Connection, 6213719720:     	Disconnected from DC 2.0
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+Connection:     	Connected to DC 5.0!
+DataCenter:     	OK!
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.175.53:443 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+Connection, 6213719720:     	Connected to DC 2.0!
+CheckLoop, 6213719720:      	Still missing updates.getDifference, updates.getChannelDifference,  on DC 2.0, sending state request
+DataCenter, 6213719720:     	OK!
+Connection, 6213719720:     	Connected to DC 2.0!
+CheckLoop, 6213719720:      	Still missing updates.getChannelDifference, updates.getDifference,  on DC 2.0, sending state request
+DataCenter, 6213719720:     	OK!
+Connection, 6213719720:     	Connected to DC 5.0!
+DataCenter, 6213719720:     	OK!
+DataCenter:     	Connection failed (2): Operation timed out
+DataCenter:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.41:5222 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 2.0
+DataCenter, 6213719720:     	Connection failed (5): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://91.108.56.191:443 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 5.0
+Session, 6213719720:        	Can't garbage collect updates.getDifference with message ID 7202255423443828736 in DC 2 sent 25 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Can't garbage collect updates.getChannelDifference with message ID 7202255423443828740 in DC 2 sent 25 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 3 left
+Connection, 6213719720:     	Connected to DC 1.0!
+DataCenter, 6213719720:     	OK!
+Connection:     	Connected to DC 2.0!
+CheckLoop:      	Still missing updates.getDifference,  on DC 2.0, sending state request
+DataCenter:     	OK!
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+Session, 6213719720:        	Can't garbage collect updates.getChannelDifference with message ID 7202255436328730624 in DC 2 sent 22 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Can't garbage collect updates.getDifference with message ID 7202255436328730628 in DC 2 sent 22 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 5 left
+Session, 6213719720:        	Can't garbage collect updates.getDifference with message ID 7202255423443828736 in DC 2 sent 26 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Can't garbage collect updates.getChannelDifference with message ID 7202255423443828740 in DC 2 sent 26 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 2, 3 left
+Connection, 6213719720:     	Connected to DC 5.0!
+DataCenter, 6213719720:     	OK!
+ResponseHandler, 6213719720: 	Got a reponse rpc_result with message ID 7202255376199188480, but there is no request!
+ResponseHandler, 6213719720: 	Got a reponse rpc_result with message ID 7202255376199188484, but there is no request!
+CheckLoop, 6213719720:      	Message updates.getDifference with message ID 7202255423443828736 not received by server, resending...
+CheckLoop, 6213719720:      	Message updates.getChannelDifference with message ID 7202255423443828740 not received by server, resending...
+UpdateHandler, 6213719720:  	Parsing updates (updateShortMessage) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session:        	Can't garbage collect updates.getDifference with message ID 7202255423443828736 in DC 2 sent 26 seconds ago, no response has been received or it wasn't yet handled!
+Session:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+DataCenter, 6213719720:     	Connection failed (1): Operation timed out
+DataCenter, 6213719720:     	Reconnecting to DC 1 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.175.53:443 main DC 1, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 1.0
+MsgIdHandler64, 6213719720: 	Given message id (7202236857036047361) is too old compared to the min value (7202254246622789632).
+MsgIdHandler64, 6213719720: 	Given message id (7202236857040094209) is too old compared to the min value (7202254246622789632).
+MsgIdHandler64, 6213719720: 	Given message id (7202252321301963777) is too old compared to the min value (7202254246622789632).
+MsgIdHandler64, 6213719720: 	Given message id (7202252321315362817) is too old compared to the min value (7202254246622789632).
+ResponseHandler, 6213719720: 	Got a reponse rpc_result with message ID 7202236847710273536, but there is no request!
+ResponseHandler, 6213719720: 	Got a reponse rpc_result with message ID 7202252313887506432, but there is no request!
+ResponseHandler, 6213719720: 	Got a reponse rpc_result with message ID 7202252313887506436, but there is no request!
+ResponseHandler, 6213719720: 	Got a reponse rpc_result with message ID 7202236847710273540, but there is no request!
+CheckLoop, 6213719720:      	Already got response for updates.getChannelDifference with message ID 7202255436328730624
+CheckLoop, 6213719720:      	Already got response for updates.getDifference with message ID 7202255436328730628
+UpdateHandler, 6213719720:  	Parsing updates (updateShortMessage) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+PingLoop:       	Ping DC 4.0
+Session, 6213719720:        	Garbage collected 9 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 2 left
+Session:        	Garbage collected 0 outgoing messages in DC 4, 1 left
+PingLoop:       	Ping DC 3.0
+Session, 6213719720:        	Garbage collected 5 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 2 left
+CheckLoop:      	We did not receive a response for 2 seconds: reconnecting and exiting check loop on DC 2.0
+Connection:     	Reconnecting DC 2.0
+Connection:     	Disconnecting from DC 2.0
+Connection:     	Disconnected from DC 2.0
+DataCenter:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 2.0
+Session:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+Session, 6213719720:        	Can't garbage collect msgs_state_req with message ID 7202255526523043840 in DC 2 sent 3 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Can't garbage collect ping_delay_disconnect with message ID 7202255526523043844 in DC 2 sent 3 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 2, 2 left
+Session:        	Garbage collected 0 outgoing messages in DC 4, 1 left
+Connection, 6213719720:     	Connected to DC 1.0!
+DataCenter, 6213719720:     	OK!
+PingLoop:       	Ping DC 1.0
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 2, 2 left
+Session:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+Connection:     	Connected to DC 2.0!
+CheckLoop:      	Still missing updates.getDifference,  on DC 2.0, sending state request
+DataCenter:     	OK!
+CheckLoop, 6213719720:      	Still missing updates.getDifference, updates.getChannelDifference,  on DC 2.0, sending state request
+Session:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session, 6213719720:        	Can't garbage collect updates.getDifference with message ID 7202255423443828736 in DC 2 sent 3 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Can't garbage collect updates.getChannelDifference with message ID 7202255423443828740 in DC 2 sent 3 seconds ago, no response has been received or it wasn't yet handled!
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 2, 3 left
+FeedLoop, 6213719720:       	Getdiff fed me message of type message in update feed loop generic...
+Session:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session:        	Can't garbage collect updates.getDifference with message ID 7202255423443828736 in DC 2 sent 29 seconds ago, no response has been received or it wasn't yet handled!
+Session:        	Garbage collected 0 outgoing messages in DC 2, 2 left
+Session:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+CheckLoop, 6213719720:      	We did not receive a response for 2 seconds: reconnecting and exiting check loop on DC 2.0
+Connection, 6213719720:     	Reconnecting DC 2.0
+Connection, 6213719720:     	Disconnecting from DC 2.0
+Connection, 6213719720:     	Disconnected from DC 2.0
+DataCenter, 6213719720:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection, 6213719720: 	Trying shared connection via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection, 6213719720:     	Connecting to DC 2.0
+CheckLoop:      	We did not receive a response for 2 seconds: reconnecting and exiting check loop on DC 2.0
+Connection:     	Reconnecting DC 2.0
+Connection:     	Disconnecting from DC 2.0
+Connection:     	Disconnected from DC 2.0
+DataCenter:     	Reconnecting to DC 2 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 2.0
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+CheckLoop, 6213719720:      	Already got response for and forgot about message ID     &óc
+CheckLoop, 6213719720:      	Already got response for and forgot about message ID    &óc
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+DataCenter:     	Connection failed (2): Operation timed out
+ timed out
+DataCenter:     	Reconnecting to DC 2 (0) from existing
+m existing
+DataCenterConnection: 	Trying shared connection via tcp://149.154.167.41:80 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Stream (0)
+Connection:     	Connecting to DC 2.0
+ to DC 2.0
+UpdateHandler, 6213719720:  	Parsing updates (updates) received via the socket...
+SeqLoop, 6213719720:        	Was fed updates of type updates...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 2 incoming messages in DC 2, 0 left
+PingLoop:       	Ping DC 1.0
+Session:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Connection:     	Connected to DC 2.0!
+CheckLoop:      	Still missing updates.getDifference,  on DC 2.0, sending state request
+DataCenter:     	OK!
+Connection, 6213719720:     	Connected to DC 2.0!
+DataCenter, 6213719720:     	OK!
+Session:        	Can't garbage collect pong in DC 1, not handled yet!
+Session:        	Garbage collected 0 incoming messages in DC 1, 1 left
+Session:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+PingLoop, 6213719720:       	Ping DC 4.0
+MsgIdHandler64: 	Given message id (7202212472798359553) is too old compared to the min value (7202254285277495296).
+MsgIdHandler64: 	Given message id (7202227953372541953) is too old compared to the min value (7202254285277495296).
+MsgIdHandler64: 	Given message id (7202243399017523201) is too old compared to the min value (7202254285277495296).
+ResponseHandler: 	Got a reponse rpc_result with message ID 7202243393240432640, but there is no request!
+ResponseHandler: 	Got a reponse rpc_result with message ID 7202212465180934144, but there is no request!
+ResponseHandler: 	Got a reponse rpc_result with message ID 7202227944243068928, but there is no request!
+CheckLoop:      	Already got response for updates.getDifference with message ID 7202255423443828736
+Session:        	Garbage collected 6 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShortChatMessage) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updates) received via the socket...
+SeqLoop, 6213719720:        	Was fed updates of type updates...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+FeedLoop, 6213719720:       	MSGID duplicate (132) in update feed loop generic
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 5 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+PingLoop:       	Ping DC 5.0
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 4.0
+Session:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updates) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updates) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 incoming messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session:        	Garbage collected 1 outgoing messages in DC 2, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 1 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session:        	Garbage collected 1 outgoing messages in DC 2, 1 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+PingLoop, 6213719720:       	Ping DC 3.0
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+Session:        	Garbage collected 1 outgoing messages in DC 2, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 4.0
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+PingLoop:       	Ping DC 3.0
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+PingLoop:       	Ping DC 1.0
+Session:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 1.0
+PingLoop, 6213719720:       	Ping DC 4.0
+Session:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 5.0
+PingLoop:       	Ping DC 4.0
+PingLoop:       	Ping DC 2.0
+Session:        	Garbage collected 0 outgoing messages in DC 5, 1 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+ReadLoop:       	danog\MadelineProto\NothingInTheSocketException in C:\Users\Admin\Desktop\proto\vendor\danog\madelineproto\src\danog\MadelineProto\Stream\Common\BufferedRawStream.php:172
+Stack trace:
+#0 [internal function]: danog\MadelineProto\Stream\Common\BufferedRawStream->bufferReadGenerator(1)
+#1 C:\Users\Admin\Desktop\proto\vendor\danog\madelineproto\src\danog\MadelineProto\Coroutine.php(110): Generator->send(NULL)
+#2 C:\Users\Admin\Desktop\proto\vendor\amphp\amp\lib\Internal\Placeholder.php(149): danog\MadelineProto\Coroutine->danog\MadelineProto\{closure}(NULL, NULL)
+#3 C:\Users\Admin\Desktop\proto\vendor\amphp\amp\lib\Deferred.php(53): Amp\Promise@anonymous->resolve(NULL)
+#4 C:\Users\Admin\Desktop\proto\vendor\amphp\byte-stream\lib\ResourceInputStream.php(101): Amp\Deferred->resolve(NULL)
+#5 C:\Users\Admin\Desktop\proto\vendor\amphp\amp\lib\Loop\NativeDriver.php(327): Amp\ByteStream\ResourceInputStream::Amp\ByteStream\{closure}('qvdq', Resource id #3809, NULL)
+#6 C:\Users\Admin\Desktop\proto\vendor\amphp\amp\lib\Loop\NativeDriver.php(127): Amp\Loop\NativeDriver->selectStreams(Array, Array, 0.441)
+#7 C:\Users\Admin\Desktop\proto\vendor\amphp\amp\lib\Loop\Driver.php(138): Amp\Loop\NativeDriver->dispatch(true)
+#8 C:\Users\Admin\Desktop\proto\vendor\amphp\amp\lib\Loop\Driver.php(72): Amp\Loop\Driver->tick()
+#9 C:\Users\Admin\Desktop\proto\vendor\amphp\amp\lib\Loop.php(95): Amp\Loop\Driver->run()
+#10 C:\Users\Admin\Desktop\proto\vendor\danog\madelineproto\src\danog\MadelineProto\Tools.php(284): Amp\Loop::run(Object(Closure))
+#11 C:\Users\Admin\Desktop\proto\vendor\danog\madelineproto\src\danog\MadelineProto\Ipc\Runner\entry.php(110): danog\MadelineProto\Tools::wait(Object(Amp\Internal\PrivatePromise))
+#12 C:\Users\Admin\Desktop\proto\vendor\danog\madelineproto\src\danog\MadelineProto\Ipc\Runner\entry.php(134): {closure}()
+#13 {main}
+ReadLoop:       	Got nothing in the socket in DC 5.0, reconnecting...
+Connection:     	Reconnecting DC 5.0
+Connection:     	Disconnecting from DC 5.0
+Connection:     	Disconnected from DC 5.0
+DataCenter:     	Reconnecting to DC 5 (0) from existing
+DataCenterConnection: 	Trying shared connection via tcp://91.108.56.191:443 main DC 5, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream (0)
+Connection:     	Connecting to DC 5.0
+Connection:     	Connected to DC 5.0!
+DataCenter:     	OK!
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 5 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+Session:        	Garbage collected 1 outgoing messages in DC 2, 1 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 5 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 5 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+PingLoop, 6213719720:       	Ping DC 3.0
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updates) received via the socket...
+SeqLoop, 6213719720:        	Was fed updates of type updates...
+FeedLoop, 6213719720:       	Resumed update feed loop channel 1423509174
+UpdateHandler, 6213719720:  	Parsing updates (updates) received via the socket...
+SeqLoop, 6213719720:        	Was fed updates of type updates...
+FeedLoop, 6213719720:       	Resumed update feed loop channel 1423509174
+FeedLoop, 6213719720:       	MSGID duplicate (142122) in update feed loop channel 1423509174
+Session, 6213719720:        	Garbage collected 5 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+Session:        	Garbage collected 1 outgoing messages in DC 2, 1 left
+PingLoop:       	Ping DC 4.0
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+PingLoop:       	Ping DC 3.0
+PingLoop:       	Ping DC 1.0
+Session:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+Session:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 1.0
+PingLoop, 6213719720:       	Ping DC 4.0
+Session:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 4.0
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 5.0
+Session:        	Garbage collected 0 outgoing messages in DC 2, 1 left
+Session:        	Garbage collected 0 outgoing messages in DC 4, 1 left
+Session:        	Garbage collected 0 outgoing messages in DC 5, 1 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session:        	Can't garbage collect rpc_result in DC 2, not handled yet!
+Session:        	Garbage collected 0 incoming messages in DC 2, 1 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+PingLoop, 6213719720:       	Ping DC 3.0
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 4.0
+Session:        	Garbage collected 0 outgoing messages in DC 4, 1 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+PingLoop:       	Ping DC 3.0
+PingLoop:       	Ping DC 1.0
+Session:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+Session:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+PingLoop, 6213719720:       	Ping DC 4.0
+PingLoop:       	Ping DC 1.0
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 4, 1 left
+Session:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 4.0
+PingLoop:       	Ping DC 2.0
+PingLoop:       	Ping DC 5.0
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 0 outgoing messages in DC 5, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+APIWrapper, 6213719720:     	Saved session!
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 5 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 2 incoming messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 5 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop, 6213719720:       	Ping DC 3.0
+Session, 6213719720:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session:        	Garbage collected 1 outgoing messages in DC 2, 1 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 2 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 5 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+PingLoop:       	Ping DC 4.0
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+Session:        	Garbage collected 0 outgoing messages in DC 4, 1 left
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updates) received via the socket...
+SeqLoop, 6213719720:        	Was fed updates of type updates...
+FeedLoop, 6213719720:       	Resumed update feed loop channel 1423509174
+UpdateHandler, 6213719720:  	Parsing updates (updates) received via the socket...
+SeqLoop, 6213719720:        	Was fed updates of type updates...
+FeedLoop, 6213719720:       	Resumed update feed loop channel 1423509174
+PingLoop:       	Ping DC 3.0
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+PingLoop:       	Ping DC 1.0
+Session:        	Garbage collected 0 outgoing messages in DC 3, 1 left
+Session:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 3, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 3, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+PingLoop, 6213719720:       	Ping DC 4.0
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+PingLoop:       	Ping DC 1.0
+Session:        	Garbage collected 0 outgoing messages in DC 1, 1 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 1, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 1, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updates) received via the socket...
+SeqLoop, 6213719720:        	Was fed updates of type updates...
+FeedLoop, 6213719720:       	Resumed update feed loop channel 1423509174
+UpdateHandler, 6213719720:  	Parsing updates (updates) received via the socket...
+SeqLoop, 6213719720:        	Was fed updates of type updates...
+FeedLoop, 6213719720:       	Resumed update feed loop channel 1423509174
+PingLoop:       	Ping DC 4.0
+PingLoop:       	Ping DC 2.0
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+PingLoop:       	Ping DC 5.0
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 4, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 4, 0 left
+Session:        	Garbage collected 0 outgoing messages in DC 5, 1 left
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 5, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 5, 0 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\bot.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.safe.php.lock...
+SessionPaths, 6213719720:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+SessionPaths, 6213719720:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\testssss4.madeline.lightState.php.lock...
+APIWrapper, 6213719720:     	Saved session!
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 1 outgoing messages in DC 2, 2 left
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+SessionPaths:   	Got exclusive lock of C:\Users\Admin\Desktop\proto\tests.madeline.lightState.php.lock...
+APIWrapper:     	Saved session!
+Session, 6213719720:        	Garbage collected 4 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 2 outgoing messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 1 left
+Session:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session:        	Garbage collected 1 outgoing messages in DC 2, 0 left
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+UpdateHandler, 6213719720:  	Parsing updates (updateShort) received via the socket...
+FeedLoop, 6213719720:       	Resumed update feed loop generic
+Session, 6213719720:        	Garbage collected 1 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 5 incoming messages in DC 2, 0 left
+Session, 6213719720:        	Garbage collected 3 outgoing messages in DC 2, 0 left
